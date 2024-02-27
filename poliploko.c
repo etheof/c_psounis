@@ -16,7 +16,7 @@ int main()
 
     while(choice!=5)
     {
-        printf("\n-------------");
+        printf("\a\n-------------");
         printf("\nMenu Epilogwn");
         printf("\n-------------");
         printf("\n1-Eisagwgi tou mege8ous tou pinaka");
